@@ -10,4 +10,6 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00235/household_power_
 
 Goal: Examine how household energy usage varies over a 2-day period in February, 2007. 
 
-Output: Four PNG files and four R code files, a total of eight files.
+Required Output: Four PNG files and four R code files, a total of eight files.
+
+Supplemental Output: Codebook (to get into the habit of creating it in the context of completeness)
